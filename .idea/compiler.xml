@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Generic" />
         <module name="Twitter" />
+        <module name="TwitterAPIs" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="Generic" target="1.8" />
       <module name="LetsKodeItRestAPI" target="1.8" />
       <module name="Twitter" target="1.8" />
+      <module name="TwitterAPIs" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
