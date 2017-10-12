@@ -6,11 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="LetsKodeItRestAPI" />
+        <module name="Generic" />
+        <module name="Twitter" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
+      <module name="Generic" target="1.8" />
       <module name="LetsKodeItRestAPI" target="1.8" />
+      <module name="Twitter" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
