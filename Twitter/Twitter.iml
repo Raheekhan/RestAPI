@@ -30,6 +30,7 @@
     <orderEntry type="library" name="Maven: io.rest-assured:json-path:3.0.5" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.groovy:groovy-json:2.4.9" level="project" />
     <orderEntry type="library" name="Maven: io.rest-assured:rest-assured-common:3.0.5" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.groovy:groovy-all:2.4.12" level="project" />
     <orderEntry type="library" name="Maven: com.github.scribejava:scribejava-apis:2.5.3" level="project" />
     <orderEntry type="library" name="Maven: com.github.scribejava:scribejava-core:2.5.3" level="project" />
     <orderEntry type="library" name="Maven: com.beust:jcommander:1.72" level="project" />

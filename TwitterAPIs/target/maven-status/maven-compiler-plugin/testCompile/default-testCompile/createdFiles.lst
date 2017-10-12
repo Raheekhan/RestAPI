@@ -1,0 +1,5 @@
+com/twitter/constants/Path.class
+com/twitter/common/RestUtilities.class
+com/twitter/statuses/UserTimelineTest.class
+com/twitter/constants/EndPoints.class
+com/twitter/constants/Auth.class
