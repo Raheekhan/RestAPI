@@ -9,52 +9,10 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>Generic</module>
         <module>Twitter</module>
         <module>TwitterAPIs</module>
     </modules>
 
-    <dependencyManagement>
-        <dependencies>
-
-            <dependency>
-                <groupId>org.testng</groupId>
-                <artifactId>testng</artifactId>
-                <version>6.11</version>
-            </dependency>
-
-            <dependency>
-                <groupId>io.rest-assured</groupId>
-                <artifactId>rest-assured</artifactId>
-                <version>3.0.5</version>
-            </dependency>
-
-            <dependency>
-                <groupId>io.rest-assured</groupId>
-                <artifactId>json-path</artifactId>
-                <version>3.0.5</version>
-            </dependency>
-
-            <dependency>
-                <groupId>org.codehaus.groovy</groupId>
-                <artifactId>groovy-all</artifactId>
-                <version>2.4.12</version>
-            </dependency>
-
-            <dependency>
-                <groupId>com.github.scribejava</groupId>
-                <artifactId>scribejava-apis</artifactId>
-                <version>2.5.3</version>
-            </dependency>
-
-            <dependency>
-                <groupId>com.beust</groupId>
-                <artifactId>jcommander</artifactId>
-                <version>1.72</version>
-            </dependency>
-
-        </dependencies>
-    </dependencyManagement>
     <build>
         <plugins>
 
